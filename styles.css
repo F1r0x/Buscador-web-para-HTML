@@ -1,0 +1,6 @@
+.search-container input {
+    padding: 5px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    box-shadow: 0 2px 5 px rgba(0, 0, 0, 0.1);
+}
